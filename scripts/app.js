@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", () => {
     router();
   };
 
+  window.navigateTo = navigateTo;
+
   const router = async () => {
     const routes = [
       { path: "/", view: showHome },
