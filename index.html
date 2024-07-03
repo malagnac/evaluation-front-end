@@ -1,33 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPA Blog</title>
-    <link rel="stylesheet" href="style.css">
-    <style>
-        .hidden { display: none; }
-        .article { margin-bottom: 20px; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/style.css">
+  <title>blog</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <a href="/" data-link>Accueil</a>
-            <a href="/about" data-link>À propos</a>
-            <a href="/contact" data-link>Contact</a>
-        </nav>
-    </header>
-    <main id="app">
-        <section id="home" class="view">Home Page Content</section>
-        <section id="about" class="view hidden">About Page Content</section>
-        <section id="contact" class="view hidden">Contact Page Content</section>
-        <section id="article-detail" class="view hidden"></section>
-    </main>
-    <footer>
-        <p>Contact info: votre.email@example.com</p>
-        <p>Liens vers les réseaux sociaux</p>
-    </footer>
-    <script src="app.js"></script>
+  <header>
+    <nav>
+      <a href="/" data-link>Accueil</a>
+      <a href="/about" data-link>À propos</a>
+      <a href="/contact" data-link>Contact</a>
+    </nav>
+  </header>
+  <main id="app">
+    <section id="home" class="view">Home Page Content</section>
+    <section id="about" class="view hidden">About Page Content</section>
+    <section id="contact" class="view hidden">Contact Page Content</section>
+    <section id="article-detail" class="view hidden"></section>
+  </main>
+  <footer>
+    <p>Alexandre Malagnac</p>
+    <a href="https://github.com/malagnac" data-link>Github</a>
+  </footer>
+  <script src="scripts/app.js"></script>
 </body>
 </html>
