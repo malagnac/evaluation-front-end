@@ -12,6 +12,10 @@ header, footer {
   padding: 1em 0;
 }
 
+main {
+  margin: 15px;
+}
+
 a {
   color: #fff;
   margin: 0 15px;
