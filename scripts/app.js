@@ -86,7 +86,7 @@ const mockData = {
     {
       "id": 1,
       "title": "Introduction to React",
-      "cover_image": "https://example.com/image1.jpg",
+      "cover_image": "https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-react-128.png",
       "excerpt": "React is a JavaScript library for building user interfaces...",
       "author": "John Doe",
       "date": "2023-01-01",
@@ -99,7 +99,7 @@ const mockData = {
     {
       "id": 2,
       "title": "Understanding Vue.js",
-      "cover_image": "https://example.com/image2.jpg",
+      "cover_image": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-128.png",
       "excerpt": "Vue.js is a progressive framework for building user interfaces...",
       "author": "Alice Doe",
       "date": "2023-02-01",

@@ -12,13 +12,6 @@ header, footer {
   padding: 1em 0;
 }
 
-footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0
-}
-
 a {
   color: #fff;
   margin: 0 15px;

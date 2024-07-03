@@ -13,10 +13,12 @@ développée dans le cadre d'un TP d'évaluation pratique.
 
 ```bash
 git clone https://github.com/malagnac/evaluation-front-end.git
+sudo npm install -g http-server
 ```
 
 ## Utilisation
-Il suffit d'ouvrir ```index.html``` avec votre naviagteur web préféré.
+Lancez ```http-server``` à la racine de votre projet git puis accédez à
+l'application via ```http://localhost:8080```.
 
 ## Auteur
 https://github.com/malagnac/
