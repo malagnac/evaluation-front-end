@@ -14,3 +14,9 @@ développée dans le cadre d'un TP d'évaluation pratique.
 ```bash
 git clone https://github.com/malagnac/evaluation-front-end.git
 ```
+
+## Utilisation
+Il suffit d'ouvrir ```index.html``` avec votre naviagteur web préféré.
+
+## Auteur
+https://github.com/malagnac/
