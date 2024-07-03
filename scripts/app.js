@@ -81,7 +81,6 @@ document.addEventListener("DOMContentLoaded", () => {
   router();
 });
 
-//const mockData = require('../data/mock.json');
 const mockData = {
   "articles": [
     {
